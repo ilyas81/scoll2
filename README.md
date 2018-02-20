@@ -1,0 +1,2 @@
+# scoll2
+Teknolojik
